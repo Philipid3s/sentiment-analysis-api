@@ -69,4 +69,4 @@ typings/
 # Optional output file for yarnpkg
 .yarn-integrity
 
-config.init
+config.js
